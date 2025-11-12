@@ -1,5 +1,3 @@
-# DEVinHouse-Clamed_HealthcareDataAnalysis
-
 # Healthcare Data Analysis
 
 Este projeto tem como objetivo realizar uma análise exploratória e tratamento de dados do conjunto de dados de saúde (`healthcare_dataset.csv`) utilizando as bibliotecas **pandas**, **numpy** e **matplotlib** em Python.
