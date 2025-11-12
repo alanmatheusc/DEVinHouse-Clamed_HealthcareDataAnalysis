@@ -2,6 +2,12 @@
 
 Este projeto tem como objetivo realizar uma análise exploratória e tratamento de dados do conjunto de dados de saúde (`healthcare_dataset.csv`) utilizando as bibliotecas **pandas**, **numpy** e **matplotlib** em Python.
 
+## Para acessar a apresentação desses dados (pdf,powerpoint e vídeo) clique no link abaixo:
+1. Acesse o Drive:
+   ```Drive
+   https://drive.google.com/drive/folders/11gAYh6mRL9h31JFsR5k5opOAqadV1Kak?usp=sharing
+   ```
+
 ## 📁 Estrutura
 
 - `index.ipynb` — Notebook Jupyter/Colab com todo o pipeline de ingestão, limpeza, exploração e visualização dos dados.
