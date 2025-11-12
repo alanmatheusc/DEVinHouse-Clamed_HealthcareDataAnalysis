@@ -88,5 +88,5 @@ Diversos gráficos para explorar os dados de diferentes perspectivas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/NomeDoRepositorio.git
+   git clone https://github.com/alanmatheusc/DEVinHouse-Clamed_HealthcareDataAnalysis.git
    ```
